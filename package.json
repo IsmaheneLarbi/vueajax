@@ -1,0 +1,26 @@
+{
+  "name": "vueajax",
+  "version": "1.0.0",
+  "description": "use of a curl cmd in vuejs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsmaheneLarbi/vueajax.git"
+  },
+  "keywords": [
+    "ajax",
+    "curl",
+    "vuejs",
+    "js",
+    "vue"
+  ],
+  "author": "ilarbi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsmaheneLarbi/vueajax/issues"
+  },
+  "homepage": "https://github.com/IsmaheneLarbi/vueajax#readme"
+}
